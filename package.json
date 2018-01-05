@@ -1,0 +1,22 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "Sandbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Paul/testsite.git"
+  },
+  "author": "Paul Heppner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Paul/testsite/issues"
+  },
+  "homepage": "https://github.com/Mr-Paul/testsite#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
